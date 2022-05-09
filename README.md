@@ -9,7 +9,7 @@ This project is just a hobby and I'm not affiliated, nor connected to any of the
 This is packed with NirCmd v2.86 and ScreenOff v2.1.
 Any problems mail to > bremaya@gmail.com
 
-Description of the softwares uI used:
+Description of the softwares I used:
 
 NirCmd (https://www.nirsoft.net/utils/nircmd.html)
 

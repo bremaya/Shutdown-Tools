@@ -4,7 +4,7 @@ A collection of tools for shutdown, reboot, suspend, hibernate, logout, lock and
 
 Uses a .exe (.bat converted) with arguments for NirCmd (https://www.nirsoft.net/utils/nircmd.html) to excute the actions, only "screen off" command is not NirCmd and use ScreenOff application (https://www.thewindowsclub.com/screenoff-turn-off-windows-laptop-screen).
 
-This project is just a hobby and I'm not affiliated, nor connected to any of the developers of the software used. I'm not related with NirSoft (https://www.nirsoft.net) or PortableApps ((https://portableapps.com).
+This project is just a hobby and I'm not affiliated, nor connected to any of the developers of the software used. I'm not related with NirSoft (https://www.nirsoft.net), Paras Sidhu (https://www.thewindowsclub.com/screenoff-turn-off-windows-laptop-screen) or PortableApps (https://portableapps.com).
 
 This is packed with NirCmd v2.86 and ScreenOff v2.1.
 Any problems mail to > bremaya@gmail.com
